@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+section{
+    height:490px;
+    padding-bottom: 40px;
+}
+
+p{
+    color: grey;
+    margin-top: 13px;
+}
+
+a{
+    text-decoration: none;
+    padding: 11px 23px;
+    background: slateblue;
+    color: white;
+    border-radius: 7px;
+    margin-top: 13px;
+    display: inline-block;
+}
+h1{
+    font-size: 43px;
+}
+
+span{
+    color: magenta;
+}
+.flexible{
+    display: flex;
+    padding-top: 58px;
+}
+
+/* ----------------first section style start-------------------- */
+
+.heading{
+    width: 414px;
+    margin-left: 207px;
+    height: 401px;
+}
+
+.heading p{
+    padding-top: 30px;
+}
+
+.heading a{
+    margin-top: 40px;
+}
+
+#header{
+    border-left: 4px solid lightcoral;
+    padding-left: 15px;
+}
+
+.headingImg{
+    width: 444px;
+    margin-left: 313px;
+}
+
+.headingImg img{
+    width: 336px;
+    height: 366px;
+}
+
+/* ----------------first section style end-------------------- */
+
+/* ----------------second section style start-------------------- */
+
+.plan{
+    margin: auto;
+    width: 318px;
+}
+
+.plans{
+    width: 271px;
+    height: 250px;
+    margin-left: 174px;
+    border-radius: 36px;
+}
+
+.plans img{
+    width: 115px;
+    margin-left: 79px;
+}
+
+.plans h3{
+    margin-left: 95px;
+}
+
+.plans p{
+    margin-left: 29px;
+}
+
+#plan1{
+    background-color: brown;
+}
+
+#plan2{
+    background-color: papayawhip;
+}
+
+#plan3{
+    background-color: darkmagenta;
+}
+
+/* ----------------second section style end-------------------- */
+
+
+/* ----------------third section style start-------------------- */
+
+
+.thirdSection{
+    background: url("images/illustrators/circel_1.png");
+    background-repeat: no-repeat;
+}
+.developImg img{
+    width: 349px;
+    margin-left: 200px;
+}
+
+.skill h1{
+    margin-left: 135px;
+}
+
+.skill p{
+    margin-left: 137px;
+}
+
+.skill a{
+    margin-left: 139px;
+}
+
+/* ----------------third section style end-------------------- */
+
+/* ----------------fourth section style start-------------------- */
+
+.fourthSection{
+    background:url("images/illustrators/circle_2.png") ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 655px;
+}
+
+.members{
+    width: 670px;
+    margin-left: 200px;
+}
+.memberImg img{
+    width: 349px;
+    margin-left: 76px;
+}
+
+/* ----------------fourth section style end-------------------- */
+
+
+/* ----------------fifth section style start-------------------- */
+
+.projectImg img{
+    width: 245px;
+    margin-left: 154px;
+}
+
+.projectImg a{
+    margin-left: -161px;
+}
+
+.demo{
+    margin-left: 193px;
+}
+/* ----------------fifth section style end-------------------- */
+
+footer{
+    background: #333;
+    padding: 22px;
+}
+
+.endSection{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.endSection span{
+    color: gold;
+}
